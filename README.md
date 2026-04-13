@@ -80,7 +80,7 @@ Traditional finance apps are built for **fixed salary users**, not freelancers.
 ## 🛠️ Tech Stack
 
 * **Frontend:** React.js
-* **Styling:** CSS / Tailwind (optional)
+* **Styling:** CSS 
 * **State Management:** Context API / Zustand
 * **Charts:** Chart.js / Recharts
 * **Backend:** Mock API / JSON Server
@@ -187,10 +187,5 @@ Developed by **Nikhil Palyal**
 
 ## 🏆 Project Goal
 
-> Build a real-world fintech solution that helps freelancers achieve **financial stability**, not just track money.
+> To Build a real-world fintech solution that helps freelancers achieve **financial stability**, not just track money.
 
----
-
-## 📜 License
-
-This project is for educational and hackathon purposes.
